@@ -1,0 +1,7 @@
+# Compiled Python files
+*.pyc
+
+#Frontend Build Directories
+node_modules/
+bower_components/
+
