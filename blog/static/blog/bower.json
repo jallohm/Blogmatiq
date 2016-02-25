@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "description": "Blogmatiq: Blogging platform",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "Blogmatiq",
+    "Blogging",
+    "platform"
+  ],
+  "authors": [
+    "'Muhammad Jalloh'"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "angular": "^1.5.0",
+    "angular-ui-router": "^0.2.18"
+  }
+}
