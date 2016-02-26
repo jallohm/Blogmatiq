@@ -1,0 +1,19 @@
+{
+  "name": "blog_manager",
+  "homepage": "blogmatiq.com",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "'Muhammad Jalloh'"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
